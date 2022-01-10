@@ -3,7 +3,7 @@
 @import "../common/mixin";
 
 // ---------------------------------
-#wrap { width: 100%; height: 100%; }
+#wrap { width: 100%; height: auto; min-height: 800px; background-color: #fda;}
 
 // ---------------------------------
 @import "../page/common/headBox";
