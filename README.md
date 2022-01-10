@@ -1,2 +1,2 @@
-# new-stylenanda
+# html, css, scss, js
 new stylenanda web page
