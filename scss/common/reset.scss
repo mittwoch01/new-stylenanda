@@ -16,14 +16,14 @@ form,fieldset,textarea,select {
   margin: 0; padding: 0; border: 0; font-size: 100%;
   box-sizing: border-box;}
 ul,ol,li { list-style: none;}
-hr { width: 100%; border: 0; border-bottom: 0.0625rem solid $color_block_02; }
+hr { width: 100%; border: 0; border-bottom: 0.0625rem solid $color_black_02; }
 a { color: inherit; text-decoration: none; }
 a:hover { text-decoration: underline; }
 button { border: 0; background-color: transparent; cursor: pointer; border-radius: 0; }
 em,address,i { font-style: normal;}
 abbr { text-decoration: none; }
 table,tr,td,th,thead,tbody,tfoot {
-  border: 0.0625rem solid $color_block_02; border-spacing: 0; border-collapse: collapse; }
+  border: 0.0625rem solid $color_black_02; border-spacing: 0; border-collapse: collapse; }
 select,input { margin: 0; padding: 0; border: 0; box-sizing: border-box; }
 input[type="text"],input[type="password"],
 input[type="tel"], input[type="url"], 
