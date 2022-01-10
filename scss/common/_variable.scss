@@ -1,0 +1,23 @@
+// variable.scss
+
+// color ========================================
+// fullcolor
+$color_white_01:#ffffff;
+$color_gray_01:#d4d4d4;
+$color_gray_02:#7c7c7c;
+$color_gray_03:#515151;
+$color_black_01:#171717;
+$color_black_02:#141414;
+$color_peach_01:#ffc59b;
+$color_brown_01:#6b2700;
+// rgba
+$color_black_rgba_01:rgba($color_black_01, 0.5);
+
+// font =========================================
+$font_family_en:"Lato", "noto sans KR";
+$font_family_kr:"noto sans KR";
+$font_family_common:sans-serif;
+$font_weight_thin:300;
+$font_weight_normal:400;
+$font_weight_bold:500;
+$font_weight_bolder:700;
