@@ -1,0 +1,25 @@
+# 올리고 싶지 않은 파일들을 삭제하는 방법 : 여기에 적는다.
+ 
+# mac사용자들을 위한 .DS_Store
+**/.DS_Store
+.DS_Store
+
+# scss 변환시 해당내용 정보처리에 대한 자료
+**/*.css.map
+*.css.map
+
+# prepros.config
+**/prepros.config
+prepros.config
+
+# prepros이용하여 생긴 config파일
+**/prepros.config
+
+# node-modul삭제
+**/node_modules
+node_modules
+**/package-lock.json
+
+#.vscode
+**/*.vscode
+
