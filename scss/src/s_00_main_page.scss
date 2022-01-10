@@ -1,0 +1,17 @@
+// s_00_main_page.scss
+@import "../common/variable";
+@import "../common/mixin";
+
+// ---------------------------------
+#wrap { width: 100%; height: 100%; }
+
+// ---------------------------------
+@import "../page/common/headBox";
+
+@import "../page/main/newBox";
+@import "../page/main/bestitemBox";
+@import "../page/main/nmbBox";
+@import "../page/main/storeBox";
+@import "../page/main/followUs";
+
+@import "../page/common/footBox";
