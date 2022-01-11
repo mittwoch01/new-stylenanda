@@ -5,4 +5,16 @@
   background-color: #fda;
 }
 
+#headBox {
+  width: 100%;
+  height: 88px;
+  background-color: #ddd;
+}
+
+#newBox {
+  width: 100%;
+  height: 768px;
+  background-color: #555;
+}
+
 /*# sourceMappingURL=s_00_main_page.css.map */
